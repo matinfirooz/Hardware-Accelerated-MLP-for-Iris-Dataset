@@ -1,5 +1,11 @@
 # Hardware-Accelerated MLP for Iris Dataset
 
+##  Course Information
+- **Course Name:** Accelerated Hardware Programming  
+- **Department:** Faculty of Engineering and Computer Science  
+- **University:** Shahid Beheshti University  
+---
+
 ## Project Overview
 This project focuses on designing and implementing a Multi-Layer Perceptron (MLP) for the Iris dataset. The implementation consists of two phases:
 
