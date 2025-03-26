@@ -27,7 +27,7 @@ module mem_page #(
 
   // i for looping
   integer i;
-  // reads from memory in the colck
+  // reads from memory in the clk
   always @(posedge clk) begin
     if (load == 1'b1) begin
       for (i = 1; i < 2**ADR_LEN; i = i + 1) begin
